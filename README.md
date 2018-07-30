@@ -64,41 +64,45 @@ Link: https://cloud.google.com/sdk/
 * Website:  https://dyadxmachina.com
 ---- 
 ### Content
-**PREPARATION - [Installation and Setup][11]**
+**SECTION I - [Installation and Setup][11]**
 * Nvidia Setup
 * Anaconda Setup
 * TensorFlow GPU and Google Cloud
 * Requirements
 ---
 
-**SECTION I – [Deep Learning with Keras][12]**
-* 1.1 Keras Introduction
-* 1.2 Review of backends Theano, TensorFlow, and Mxnet
-* 1.3 Design and compile a model
-* 1.4 Keras Model Training, Evaluation and Prediction
-* 1.5 Training with augmentation 
-* 1.6 Training Image data on the disk with Transfer Learning and Data augmentation 
+**SECTION II – [Keras Introduction][12]**
+* 2.1 Introduction
+* 2.2 Keras Backends
+* 2.3 Design and Compile a model
+* 2.4 Model Training, Evaluation, and Prediction
+* 2.5 Training with Data Augmentation
+* 2.6 Training with Transfer Learning and Data Augmentation
 ---- 
 
-**SECTION II – [Scaling Deep Learning using Keras and TensorFlow][13]**
-* 2.1 Tensorflow Introduction
-* 2.2 Tensorboard Introduction
-* 2.3 Types of Parallelism in Deep Learning – Synchronous vs Asynchronous
-* 2.4 Distributed Deep Learning with TensorFlow 
-* 2.5 Configuring Keras to use TensorFlow for distributed problems 
+**SECTION III – [Scaling Deep Learning using Keras and Tensorflow][13]**
+* 3.1 Introduction to Tensorflow
+* 3.2 Introduction to Tensorboard
+* 3.3 Types of Parallelism in Deep Learning – Synchronous and Asynchronous
+* 3.4 Distributed Tensorflow
+* 3.5 Configuring Keras to use TensorFlow for Distributed Problems 
 ---
 
-**SECTION III - [Distributed Deep Learning with Google Cloud MLE][14]**
-* 3.1 Representing data in TensorFlow
-* 3.2 Diving into Estimators
-* 3.3 Creating your Data Input Pipeline
-* 3.4 Creating your Estimator
-* 3.5 Packaging your model/trajectory 
-* 3.6 Training in the Cloud
-* 3.7 Automated Hyperparameter Tuning
-* 3.9 Deploying your Model to the Cloud for Prediction 
-* 3.10 Creating your Machine Learning API
-
+**SECTION IV - [Training, Tuning and Serving Our Model in the Cloud][14]**
+* 4.1 Introduction
+* 4.2 Introduction to Cloud Machine Learning Engine
+* 4.3 Datasets, Feature Columns, and Estimators
+* 4.4 Representing Data in Tensorflow
+* 4.5 Quick dive into Tensorflow Estimators
+* 4.6 Creating data input pipelines
+* 4.7 Setting up our Estimator
+* 4.8 Packaging our Model
+* 4.9 Training with Google Cloud ML Engine
+* 4.10 Hyperparameter Tuning in the Cloud
+* 4.11 Deploying our Model for Prediction
+* 4.12 Creating our Prediction API
+* 4.13 Wrapping up
+* 4.14 Course Summary
 ---
 
 #### Feel Free to contact us if you have any question:
