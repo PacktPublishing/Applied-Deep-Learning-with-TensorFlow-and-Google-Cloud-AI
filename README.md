@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Applied Deep Learning with TensorFlow and Google Cloud AI
 ![image1][image-1] 
 _Authors: [Haohan Wang][1] & [Christian Fanli Ramsey][2]_ \> [dyad x machina][3]
